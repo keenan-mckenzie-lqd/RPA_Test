@@ -1,0 +1,5 @@
+﻿InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+147419,Professional Services,258952,51790.4,310742,USD,2017-01-28
+842654,Concierge Services,104888,20977.6,125866,USD,2017-01-09
+413582,IT Support,234342,46868.4,281210,EUR,2017-03-07
+408150,Various paper supplies,63643,12728.6,76371.6,CAD,2017-05-13
